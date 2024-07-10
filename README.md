@@ -1,9 +1,5 @@
 # satellite-image-segmentor
 A gradio ui based web app  hosted deep learning model to segment satellite images 
-Here's a basic README file for your project:
-
----
-
 # Semantic Segmentation of Aerial Imagery
 
 This project demonstrates semantic segmentation of aerial imagery using deep learning techniques, specifically targeting satellite images.
@@ -38,10 +34,14 @@ This project demonstrates semantic segmentation of aerial imagery using deep lea
 ## Dataset
 - The dataset used is the "Semantic Segmentation Dataset" available at `/kaggle/input/semantic-segmentation-of-aerial-imagery`.
 
+## Output Screenshots
+<img width="1724" alt="Screenshot 2024-07-09 at 10 10 02 PM" src="https://github.com/prerakpatel51/satellite-image-segmentor/assets/155515142/b8bdb4ad-617e-45bc-9bcd-61127f84ce38">
+<img width="1721" alt="Screenshot 2024-07-09 at 10 15 18 PM" src="https://github.com/prerakpatel51/satellite-image-segmentor/assets/155515142/d46d09c2-ad69-4269-9ea4-7cd9b0211294">
+
 ## Credits
 - Developed by Prerak Patel.
 - Inspired by hardwork only😃.
 
 ---
 
-This README provides a brief overview of your project, including setup instructions, usage guidelines, model architecture details, and credits. Adjust the content as per your specific project details and preferences.
+This README provides a brief overview of your project, including setup instructions, usage guidelines, model architecture details, and credits.
