@@ -44,4 +44,4 @@ This project demonstrates semantic segmentation of aerial imagery using deep lea
 
 ---
 
-This README provides a brief overview of your project, including setup instructions, usage guidelines, model architecture details, and credits.
+
